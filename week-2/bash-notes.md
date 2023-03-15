@@ -11,3 +11,4 @@ man - omogucava da saznamo vise o nekoj komandi
 sort - sort lines of text files
 uniq - report or omit repeated lines
 strings - print the sequences of printable characters in files
+echo  "" > output.txt - insert in file and create file
