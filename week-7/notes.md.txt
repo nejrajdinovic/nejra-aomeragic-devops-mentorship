@@ -25,7 +25,7 @@ Create nginx config file for our node app
 sudo nano /etc/nginx/conf.d/node-app.conf
 server {  
     listen 80;  
-    server_name 3.126.248.184;  
+    server_name 3.70.204.198;  
  
     location / {  
        proxy_pass http://127.0.0.1:8008;  
